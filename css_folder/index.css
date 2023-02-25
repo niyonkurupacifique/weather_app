@@ -1,0 +1,37 @@
+#h11{
+    text-align: center;
+    color:black;
+    background-color: aqua;
+}
+#simple_form form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 7%;
+}
+#submit{
+    margin-top: 3%;
+}
+input{
+    resize: horizontal;
+    width: 20%;
+
+    text-align: center;
+}
+#api_data_space {
+    display: block;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    
+    height: 100px;
+    width: 100%;
+  }
+  body{
+    background-image:url('/images/back_pic.jpg');
+    color: white;
+    background-repeat: no-repeat;
+    background-size:cover;
+    
+    
+  }
